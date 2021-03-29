@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 config.py
 archive/credits.csv
+movies_metadata.csv
